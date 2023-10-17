@@ -57,6 +57,7 @@ function createBoard(){
 function loadChess(){
     
     createBoard();
+    console.log("1");
 
 
 }
